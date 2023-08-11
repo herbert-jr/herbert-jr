@@ -32,3 +32,7 @@ Sou um caro senhor de 28 anos, pelo menos até o dia 19 de dezembro, atualmente 
   <img align="center" alt="Hebert-Sequelize" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg">
   <img align="center" alt="Hebert-Mocha" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
 </div>
+
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertMarques&layout=compact)
