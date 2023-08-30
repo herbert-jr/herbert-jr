@@ -1,4 +1,4 @@
-## Oii eu sou o Herbert Marques, futuro Desenvolvedor FullStack Jr 
+## Oii eu sou o Herbert Marques, Desenvolvedor Frontend.
 
 ## 💬 Sobre mim 
 
