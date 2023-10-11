@@ -1,38 +1,72 @@
-## Oii eu sou o Herbert Marques, Desenvolvedor Frontend.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 💬 Sobre mim 
+<p align="left"> 
+  Prazer, sou o Herbert mas, se quiser, pode me chamar de Junior. Sou carioca, amante do Maracanã, adoro viajar(Quem não gosta ?) e sou um <strong>Desenvolvedor Front-end</strong>.<br>
+  Estou cursando Análise e Desenvolvimento de Sistema pela Faculdade Digital Descomplica, inicei meus estudos ápos o término do curso
+ de Desenvolvimento Web que fiz pela Trybe.<br>
+ Atualmente busco a minha primeira oportunidade no mercado de trabalho para demonstrar tudo que aprendi.
+</p>
 
-Sou um caro senhor de 28 anos, pelo menos até o dia 19 de dezembro, atualmente faço o curso de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistemas na Faculdade Descomplica. 
+<p align="left">
+  🦄 Linguagens:
+   <ul >
+    <li>
+     Html
+    </li>
+    <li>
+     CSS
+    </li>
+     <li>
+    JavaScript
+    </li>
+    <li>
+     TypeScript
+    </li>
+        <li>
+     React
+    </li>
+    <li>
+     NextJs
+    </li>
+     <li>
+    Jest
+    </li>
+    <li>
+     Git
+    </li>
+            <li>
+     Docker
+    </li>
+    <li>
+     MySQL
+    </li>
+   </ul>
+</p>
+
+<p align="left">
+  💼 Ferramentas: 
+<ul>
+ <li>
+  Vs Code
+ </li>
+ <li>
+  Trello
+ </li>
+ <li>
+  Figma
+ </li>
+</ul>
  
- ## 🌱 Certificados
+</p>
 
-### **Trybe**
-* [Fundamentos](https://www.credential.net/5ed316ba-5054-45be-8949-d9d6ab6ecbbb#gs.3fsdcc)
-* [FrontEnd](https://www.credential.net/5cf890d0-3468-49a6-85e7-3a5209d765c9#gs.3fsduo)
-
-## 🖥️ Linguagens
-
-* ### **Front-End**
-<div style="display: inline_block">
-  <img align="center" alt="Hebert-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hebert-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Hebert-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hebert-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hebert-Jest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-   <img align="center" alt="Hebert-Redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-</div><br>
+<p align="left">
+  💌 Entre em contato via LinkedIn: ⤵️
+</p>
 
 
-* ### **Back-End**
-<div style='display: inline_block'>
-  <img align="center" alt="Hebert-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Hebert-Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Hebert-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Hebert-Express" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="Hebert-Sequelize" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg">
-  <img align="center" alt="Hebert-Mocha" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
-</div>
 
-##
+  <a href="[#](https://www.linkedin.com/in/herbert-marques-963136106/)" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/herbert-marques-963136106/)https://www.linkedin.com/in/herbert-marques-963136106/" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbert-jr&layout=compact)
+ 
+</p>
