@@ -65,8 +65,9 @@
 
 
 
-  <a href="[#](https://www.linkedin.com/in/herbert-marques-963136106/)" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/herbert-marques-963136106/)https://www.linkedin.com/in/herbert-marques-963136106/" /></a>
+  <a href="https://www.linkedin.com/in/herbert-marques-963136106/" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
 
  
 </p>
