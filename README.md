@@ -2,9 +2,6 @@
 
 <p align="left"> 
   Prazer, sou o Herbert mas, se quiser, pode me chamar de Junior. Sou carioca, amante do Maracanã, adoro viajar(Quem não gosta ?) e sou um <strong>Desenvolvedor Front-end</strong>.<br>
-  Estou cursando Análise e Desenvolvimento de Sistema pela Faculdade Digital Descomplica, inicei meus estudos ápos o término do curso
- de Desenvolvimento Web que fiz pela Trybe.<br>
- Atualmente busco a minha primeira oportunidade no mercado de trabalho para demonstrar tudo que aprendi.
 </p>
 
 <p align="left">
