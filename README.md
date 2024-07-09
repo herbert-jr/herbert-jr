@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
   Prazer, sou o Herbert mas, se quiser, pode me chamar de Junior. Sou carioca, amante do Maracanã, adoro viajar(Quem não gosta ?) e sou um <strong>Desenvolvedor Front-end</strong>.<br>
 </p>
